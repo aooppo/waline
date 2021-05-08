@@ -1,8 +1,8 @@
 {
-  "name": "@waline/vercel",
+  "name": "voox-waline-vercel",
   "description": "vercel server for waline comment system",
   "version": "0.23.13",
-  "author": "lizheming <i@imnerd.org>",
+  "author": "TJ",
   "dependencies": {
     "@cloudbase/node-sdk": "^2.4.0",
     "@koa/cors": "^3.1.0",
@@ -27,6 +27,6 @@
     "thinkjs": "^3.0.0",
     "ua-parser-js": "^0.7.22"
   },
-  "repository": "https://github.com/lizheming/waline",
+  "repository": "https://github.com/aooppo/waline",
   "license": "MIT"
 }
