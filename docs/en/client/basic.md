@@ -93,7 +93,7 @@ number of pages per page.
 
 Multilingual support.
 
-Optional value：
+Optional value:
 
 - `'zh'`
 - `'zh-CN'`
@@ -135,7 +135,7 @@ For details of custom style and darkmode, please see [Custom Style](./style.md).
 ## avatarCDN
 
 - Type: `string`
-- Default: `https://cdn.v2ex.com/gravatar/`
+- Default: `https://sdn.geekzu.org/avatar/`
 - Required: No
 
 Gravatar CDN baseURL.
